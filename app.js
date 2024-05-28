@@ -5,3 +5,4 @@ function milas(){
 function ali (){
     console.log("mn ali hasta");
 }
+let hassan = "hasanam"
